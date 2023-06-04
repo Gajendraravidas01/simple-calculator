@@ -1,0 +1,34 @@
+/* .outer{
+    height: 400px;
+    width: inherit;
+    background-color: grey;
+    margin-left:30%;
+    margin-top: 7%;
+} */
+#table{
+    height: 400px;
+    width: 350px;
+    margin-left:30%;
+    margin-top: 7%;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 500;
+    border-collapse: collapse;
+    border: 1px solid rgb(239, 217, 217);
+    
+}
+.lastcol{
+    color: white;
+    background-color: rgb(232, 42, 42);
+    /* text-align: center; */
+    /* font-size: 2rem; */
+    width: 70px;
+}
+#display{
+    height: 70px;
+    width: 350px;
+    background-color: rgb(239, 217, 217);
+    color: blue;
+    font-size: 3rem;
+    text-align: right;
+}
